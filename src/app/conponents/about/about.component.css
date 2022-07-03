@@ -1,0 +1,25 @@
+*{
+    text-decoration: none;
+    list-style: none; 
+    margin:0px;
+    padding: 0px; 
+    outline: none;
+}
+
+
+body{
+    margin: 0px; 
+    padding: 0px; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container-p{
+    margin: 5rem;
+    direction: ltr;
+    padding: 5px;
+}
+.lorem{
+    justify-content: center;
+    padding: auto;
+    bottom: 50px;
+}
